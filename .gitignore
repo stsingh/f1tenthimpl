@@ -1,0 +1,8 @@
+build
+devel
+bagfiles/*
+.catkin_workspace
+src/finalproj/src/__pycache__
+*.jpg
+*.png
+*.jpeg
